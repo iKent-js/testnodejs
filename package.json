@@ -8,5 +8,13 @@
     "start": "node index.js"
   },
   "author": "iKent",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "http2": "^3.3.7",
+    "https": "^1.0.0",
+    "node-static": "^0.7.11",
+    "pm2": "^5.2.2",
+    "ws": "^8.11.0"
+  }
 }
